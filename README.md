@@ -1,6 +1,6 @@
 # Monil's Portfolio Website
 
-![Monil's Portfolio](https://ibb.co/9rbDNgk)
+![Monil's Portfolio](https://i.ibb.co/RD3F9bk/Screenshot-2023-08-24-225213.png)
 
 This repository contains the code for Monil's Portfolio website, showcasing Monil Jain's skills, experience, and services as a Front-end Developer and Cloud Engineer.
 
